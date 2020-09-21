@@ -1,0 +1,22 @@
+---
+title: "Report"
+author: "Tarique@455"
+date: "13/09/2020"
+output:
+  html_document: default
+  pdf_document: default
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Points Table
+
+
+```{r}
+# Header Points Table
+
+View(datain_web[[3]])
+```
+
