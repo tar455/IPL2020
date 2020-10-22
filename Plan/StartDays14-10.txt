@@ -1,0 +1,5 @@
+	Project Plan
+
+1:-Collect the daily data of the players
+2:-Clean the data and make error free
+3:-
